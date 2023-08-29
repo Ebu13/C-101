@@ -45,10 +45,10 @@ int a,i=0,b;
 
 main(){
 	
-	switch(iþlem){
+	switch(islem){
 		case 1:sonaekle()
 		break;
-		case 2:baþaekle()
+		case 2:basaekle()
 		break;
 		case 3:arayaekle()
 		break;
